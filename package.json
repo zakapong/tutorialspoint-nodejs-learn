@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "This is tutorialspoint nodeJS learn project",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
+  },
+  "scripts": {
+    "test": "learn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakapong/tutorialspoint-nodejs-learn.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "'Zack' <'zaka.pong@yahoo.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakapong/tutorialspoint-nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/zakapong/tutorialspoint-nodejs-learn#readme"
+}
