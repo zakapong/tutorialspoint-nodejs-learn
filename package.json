@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "This is tutorialspoint nodeJS learn project",
   "main": "src/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "cookie-parser": "1.4.1",
+    "multer": "1.1.0"
+  },
   "devDependencies": {
     "chai": "3.5.0",
     "mocha": "2.4.5"
